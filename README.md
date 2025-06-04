@@ -2,7 +2,7 @@
 
 ## 📌 **Project Overview**
 
-This project analyzes a detailed auto sales dataset to uncover insights into customer purchasing behavior, product performance, regional trends, and sales dynamics. It highlights key metrics such as top customers, best-selling product lines, average order values, and monthly revenue trends—offering valuable input for strategic decision-making in sales, marketing, and operations.
+This project analyzes a detailed automobile sales dataset to uncover insights into customer purchasing behavior, product performance, regional trends, and sales dynamics. It highlights key metrics such as top customers, best-selling product lines, average order values, and monthly revenue trends—offering valuable input for strategic decision-making in sales, marketing, and operations.
 
 ## ❓ **Problem Statement**
 
